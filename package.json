@@ -1,0 +1,13 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "browserfy": "^1.0.0",
+    "nodemon": "^3.0.3",
+    "qs": "^6.11.2",
+    "react": "^18.2.0"
+  }
+}
